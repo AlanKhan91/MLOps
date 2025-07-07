@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mlops-container
-        image: alanmlops/mlops-app:latest
+        image: alankhan/mlops-app:latest
         ports:
         - containerPort: 5000
 ---
